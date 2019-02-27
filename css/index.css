@@ -1,0 +1,19 @@
+html{
+    font-family: Tahoma, sans-serif;
+}
+.c{
+    text-align: center;
+}
+.c2{
+    color: red;
+}
+.c3{
+    text-align: left;
+}
+table{
+    width: 70%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: .1px solid black;
+}
